@@ -1,22 +1,3 @@
-# tsconfig
-
-Add the package to your `"devDependencies"`:
-
-```sh
-npm install --save-dev @myway42/tsconfig
-```
-
-Add to your `tsconfig.json`:
-
-```json
-"extends": "@myway42/tsconfig/tsconfig.json"
-```
-
----
-
-The `tsconfig.json`:
-
-```jsonc
 {
   "compilerOptions": {
     "target": "ES6",
@@ -33,4 +14,3 @@ The `tsconfig.json`:
   },
   "$schema": "https://json.schemastore.org/tsconfig"
 }
-```

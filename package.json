@@ -1,0 +1,17 @@
+{
+  "name": "@myway42/tsconfig",
+  "version": "1.0.0",
+  "description": "A base TSConfig for working.",
+  "keywords": [
+    "tsconfig"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "myway42",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myway42/tsconfig.git"
+  }
+}
