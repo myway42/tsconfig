@@ -1,3 +1,5 @@
+[![NPM Version](https://img.shields.io/npm/v/%40myway42%2Ftsconfig)](https://www.npmjs.com/package/@myway42/tsconfig)
+
 # tsconfig
 
 Add the package to your `"devDependencies"`:
